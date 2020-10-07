@@ -1,0 +1,17 @@
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\App.g.i.cs
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\App.g.cs
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\HomePage.g.i.cs
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\HomePage.g.cs
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\RootPage.g.i.cs
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\RootPage.g.cs
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\SearchCompte.g.i.cs
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\SearchCompte.g.cs
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\App.xaml
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\HomePage.xaml
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\RootPage.xaml
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\SearchCompte.xaml
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\App.xbf
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\HomePage.xbf
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\RootPage.xbf
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\View\SearchCompte.xbf
+D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine\obj\x86\Debug\TP3Allocine.csprojAssemblyReference.cache
