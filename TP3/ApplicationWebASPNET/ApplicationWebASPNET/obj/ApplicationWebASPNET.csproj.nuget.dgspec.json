@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj": {}
+    "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj": {}
   },
   "projects": {
-    "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj": {
+    "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj",
+        "projectUniqueName": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj",
         "projectName": "ApplicationWebASPNET",
-        "projectPath": "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj",
+        "projectPath": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj",
         "packagesPath": "C:\\Users\\Lilian\\.nuget\\packages\\",
-        "outputPath": "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\obj\\",
+        "outputPath": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -10376,11 +10376,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\WebASPNETTestProject\\WebASPNETTestProject.csproj",
+      "projectUniqueName": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\WebASPNETTestProject\\WebASPNETTestProject.csproj",
       "projectName": "WebASPNETTestProject",
-      "projectPath": "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\WebASPNETTestProject\\WebASPNETTestProject.csproj",
+      "projectPath": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\WebASPNETTestProject\\WebASPNETTestProject.csproj",
       "packagesPath": "C:\\Users\\Lilian\\.nuget\\packages\\",
-      "outputPath": "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\WebASPNETTestProject\\obj\\",
+      "outputPath": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\WebASPNETTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10399,8 +10399,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj": {
-              "projectPath": "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj"
+            "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj": {
+              "projectPath": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj"
             }
           }
         }

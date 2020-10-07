@@ -123,6 +123,7 @@
     <Compile Include="Model\Favori.cs" />
     <Compile Include="Model\Film.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\GPSService.cs" />
     <Compile Include="Service\WSService.cs" />
     <Compile Include="Utils\Popup.cs" />
     <Compile Include="ViewModel\AddCompteViewModel.cs" />

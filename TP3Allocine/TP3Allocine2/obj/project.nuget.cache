@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E+Ku4soOhpzhSTYtKCWhrBrW1H2ofuUn6MmFlM15K4tQ7iEnX50Vi+sSLfyTdImdBzqGIn/z7N5bnUHfAzOASQ==",
+  "dgSpecHash": "+s0WXhHiosV70dIzZMMf/bbfc7PcpCio8fpLq+K6ZoihMov85K7v4fH4b3QQ/2QIuejKPhQ6CtnYIsqQHwm8yA==",
   "success": true,
-  "projectFilePath": "D:\\CPE Lyon\\ASI C#\\TP3Allocine\\TP3Allocine2\\TP3Allocine2.csproj",
+  "projectFilePath": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3Allocine\\TP3Allocine2\\TP3Allocine2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lilian\\.nuget\\packages\\commonservicelocator\\2.0.2\\commonservicelocator.2.0.2.nupkg.sha512",
     "C:\\Users\\Lilian\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",

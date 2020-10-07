@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>66478860-0741-4585-ac7b-294ef9c0652a</PackageIdentityName>
     <PackageIdentityPublisher>CN=Lilian</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>5B3E54583D5AC0FD8FFCA2E138B6E5BBC23C2188ADF928E6556BF1446B4C4993</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>66478860-0741-4585-ac7b-294ef9c0652a_1.0.0.0_x86__m7a14rh4ebkw2</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>66478860-0741-4585-ac7b-294ef9c0652a_m7a14rh4ebkw2!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-07T10:06:19.829</Modified>
+      <Modified>2020-10-07T17:05:50.855</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\TP3Allocine2.exe">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\TP3Allocine2.exe">
       <PackagePath>entrypoint\TP3Allocine2.exe</PackagePath>
-      <Modified>2020-10-07T10:06:19.126</Modified>
+      <Modified>2020-10-07T17:05:50.083</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilian\.nuget\packages\commonservicelocator\2.0.2\lib\netstandard2.0\CommonServiceLocator.dll">
       <PackagePath>CommonServiceLocator.dll</PackagePath>
@@ -74,79 +74,79 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2019-03-18T16:36:56.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2020-10-05T09:59:55.754</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-09-23T09:27:37.085</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-09-23T09:27:37.088</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-09-23T09:27:37.089</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-09-23T09:27:37.091</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-09-23T09:27:37.091</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-09-23T09:27:37.091</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-09-23T09:27:37.092</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\TP3Allocine2.xr.xml">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\TP3Allocine2.xr.xml">
       <PackagePath>TP3Allocine2.xr.xml</PackagePath>
-      <Modified>2020-10-07T10:06:18.892</Modified>
+      <Modified>2020-10-07T16:41:41.629</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-10-07T10:04:31.630</Modified>
+      <Modified>2020-10-07T17:05:49.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\AddCompte.xbf">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\AddCompte.xbf">
       <PackagePath>View\AddCompte.xbf</PackagePath>
-      <Modified>2020-10-07T10:06:18.899</Modified>
+      <Modified>2020-10-07T17:05:49.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\HomePage.xbf">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\HomePage.xbf">
       <PackagePath>View\HomePage.xbf</PackagePath>
-      <Modified>2020-10-07T10:04:31.631</Modified>
+      <Modified>2020-10-07T17:05:49.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\RootPage.xbf">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\RootPage.xbf">
       <PackagePath>View\RootPage.xbf</PackagePath>
-      <Modified>2020-10-07T10:04:31.631</Modified>
+      <Modified>2020-10-07T17:05:49.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\SearchCompte.xbf">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\SearchCompte.xbf">
       <PackagePath>View\SearchCompte.xbf</PackagePath>
-      <Modified>2020-10-07T10:04:31.630</Modified>
+      <Modified>2020-10-07T17:05:49.838</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2019-03-18T15:33:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-10-07T09:50:20.664</Modified>
+      <Modified>2020-10-07T16:41:42.606</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\Core\TP3Allocine2.exe">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\Core\TP3Allocine2.exe">
       <PackagePath>TP3Allocine2.exe</PackagePath>
-      <Modified>2020-10-07T10:06:19.825</Modified>
+      <Modified>2020-10-07T17:05:50.846</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

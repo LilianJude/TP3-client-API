@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Js0s3M9ybdzE/kJBvYnCrCiL4cPWsM+1NJDJAEHMIbvOEBWDL//1DX8K4L734WXt6Z9/oe0dK6Rp8Ad6rZAuGg==",
+  "dgSpecHash": "jPZAyuvuC/QwlSPsoj/R8aGr0zGSMWVOmfzCYQ6nwQxKrjuV31Rn2zh3LgEF95JEeEV4Im0xhpHmtih0ZFH4sg==",
   "success": true,
-  "projectFilePath": "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj",
+  "projectFilePath": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\ApplicationWebASPNET\\ApplicationWebASPNET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lilian\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Lilian\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

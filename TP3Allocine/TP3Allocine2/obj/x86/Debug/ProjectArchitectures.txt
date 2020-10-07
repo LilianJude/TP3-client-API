@@ -1,1 +1,1 @@
-D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\TP3Allocine2.csproj;x86
+D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\TP3Allocine2.csproj;x86

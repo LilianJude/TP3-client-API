@@ -51,7 +51,7 @@
                 Mot de passe
         </TextBlock>
         <PasswordBox x:ConnectionId='12' Name="pwdInput" RelativePanel.Below="pwd" RelativePanel.AlignHorizontalCenterWithPanel="True" FontSize="25" Height="50" 
-                     Width="300" Background="{x:Null}" BorderBrush="#B2FFFFFF" BorderThickness="5,5,5,5" Password="{Binding AddCompte.pwd, Mode=TwoWay}">
+                     Width="300" Background="{x:Null}" BorderBrush="#B2FFFFFF" BorderThickness="5,5,5,5" Password="{Binding AddCompte.Pwd, Mode=TwoWay}">
         </PasswordBox>
 
         <TextBlock x:ConnectionId='13' Name="compteAddress" Foreground="AntiqueWhite" FontFamily="Bahnschrift SemiBold Condensed" FontSize="30" RelativePanel.Below="pwdInput" 

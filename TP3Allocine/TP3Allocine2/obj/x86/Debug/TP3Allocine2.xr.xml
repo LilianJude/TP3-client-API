@@ -8,7 +8,7 @@
     <RootPropertyPathName Name="Ville" />
     <RootPropertyPathName Name="CodePostal" />
     <RootPropertyPathName Name="Rue" />
-    <RootPropertyPathName Name="pwd" />
+    <RootPropertyPathName Name="Pwd" />
     <RootPropertyPathName Name="Mel" />
     <RootPropertyPathName Name="TelPortable" />
     <RootPropertyPathName Name="Prenom" />

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CPE Lyon\\ASI C#\\TP3Allocine\\TP3Allocine2\\TP3Allocine2.csproj": {}
+    "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3Allocine\\TP3Allocine2\\TP3Allocine2.csproj": {}
   },
   "projects": {
-    "D:\\CPE Lyon\\ASI C#\\TP3Allocine\\TP3Allocine2\\TP3Allocine2.csproj": {
+    "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3Allocine\\TP3Allocine2\\TP3Allocine2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CPE Lyon\\ASI C#\\TP3Allocine\\TP3Allocine2\\TP3Allocine2.csproj",
+        "projectUniqueName": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3Allocine\\TP3Allocine2\\TP3Allocine2.csproj",
         "projectName": "TP3Allocine2",
-        "projectPath": "D:\\CPE Lyon\\ASI C#\\TP3Allocine\\TP3Allocine2\\TP3Allocine2.csproj",
+        "projectPath": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3Allocine\\TP3Allocine2\\TP3Allocine2.csproj",
         "packagesPath": "C:\\Users\\Lilian\\.nuget\\packages\\",
-        "outputPath": "D:\\CPE Lyon\\ASI C#\\TP3Allocine\\TP3Allocine2\\obj\\",
+        "outputPath": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3Allocine\\TP3Allocine2\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

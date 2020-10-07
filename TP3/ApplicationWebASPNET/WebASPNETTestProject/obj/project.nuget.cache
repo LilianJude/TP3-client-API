@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "niYNKt5CNlCMLmepMDOwh+B400nDBvuXIonr8Un3XAXVXVFbEI/IhO+MTx0Y4eJoNGOAOQUQ3xGJEGdgCy3Qig==",
+  "dgSpecHash": "XG2LT8nffXpbca1zhu83sFr1HshNowdV8Wa/DlEVad36k/B+Tsq/G1agDPmeoO05pEkGzWTQcNbszYehLegGbQ==",
   "success": true,
-  "projectFilePath": "D:\\CPE Lyon\\ASI C#\\TP3\\ApplicationWebASPNET\\WebASPNETTestProject\\WebASPNETTestProject.csproj",
+  "projectFilePath": "D:\\CPE Lyon\\ASI C#\\TP3-client-API\\TP3\\ApplicationWebASPNET\\WebASPNETTestProject\\WebASPNETTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lilian\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Lilian\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

@@ -39,8 +39,10 @@ namespace TP3Allocine2.ViewModel
         {
             try
             {
+                await GPSService.Instance.getLocation(this.AddCompte);
                 await WSService.Instance.AddCompte(this.AddCompte);
-                MessageDialog popup = new MessageDialog($"Utilisateur {AddCompte.Nom} ajouté !");
+    
+                MessageDialog popup = new MessageDialog($"Utilisateur {AddCompte.Nom} ajouté ! Coordonnées : ({AddCompte.Latitude}; {AddCompte.Longitude})");
                 await popup.ShowAsync();
                 this.AddCompte = new Compte();
             }

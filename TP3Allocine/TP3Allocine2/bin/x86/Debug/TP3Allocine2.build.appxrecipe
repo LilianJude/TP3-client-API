@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>66478860-0741-4585-ac7b-294ef9c0652a</PackageIdentityName>
     <PackageIdentityPublisher>CN=Lilian</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\TP3Allocine2.exe">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\TP3Allocine2.exe">
       <PackagePath>entrypoint\TP3Allocine2.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lilian\.nuget\packages\commonservicelocator\2.0.2\lib\netstandard2.0\CommonServiceLocator.dll">
@@ -55,61 +55,61 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\TP3Allocine2.xr.xml">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\TP3Allocine2.xr.xml">
       <PackagePath>TP3Allocine2.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\AddCompte.xbf">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\AddCompte.xbf">
       <PackagePath>View\AddCompte.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\HomePage.xbf">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\HomePage.xbf">
       <PackagePath>View\HomePage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\RootPage.xbf">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\RootPage.xbf">
       <PackagePath>View\RootPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\SearchCompte.xbf">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\View\SearchCompte.xbf">
       <PackagePath>View\SearchCompte.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3Allocine\TP3Allocine2\bin\x86\Debug\Core\TP3Allocine2.exe">
+    <AppxPackagedFile Include="D:\CPE Lyon\ASI C#\TP3-client-API\TP3Allocine\TP3Allocine2\bin\x86\Debug\Core\TP3Allocine2.exe">
       <PackagePath>TP3Allocine2.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
